@@ -16,3 +16,5 @@ akses : localhost/kios
 
 Username : malasngoding
 Password : malasngoding
+
+thanks you
